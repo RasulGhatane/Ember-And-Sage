@@ -1,0 +1,1 @@
+It's a practice site I made using mostly HTML and CSS. It's just a single page for the site. 
